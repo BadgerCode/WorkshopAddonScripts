@@ -1,6 +1,6 @@
 # Create an addon GMA file
 **You will need**:
-* Path to the folder of your addon
+* Path to the folder of your addon (the folder which contains addon.json)
 
 
 ```batch
